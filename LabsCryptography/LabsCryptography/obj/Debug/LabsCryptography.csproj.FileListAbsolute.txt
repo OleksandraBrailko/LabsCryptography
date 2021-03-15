@@ -1,0 +1,11 @@
+C:\Users\jyu40\Source\Repos\LabsCryptography\LabsCryptography\bin\Debug\LabsCryptography.exe.config
+C:\Users\jyu40\Source\Repos\LabsCryptography\LabsCryptography\bin\Debug\LabsCryptography.exe
+C:\Users\jyu40\Source\Repos\LabsCryptography\LabsCryptography\bin\Debug\LabsCryptography.pdb
+C:\Users\jyu40\Source\Repos\LabsCryptography\LabsCryptography\obj\Debug\LabsCryptography.csprojAssemblyReference.cache
+C:\Users\jyu40\Source\Repos\LabsCryptography\LabsCryptography\obj\Debug\LabsCryptography.Form1.resources
+C:\Users\jyu40\Source\Repos\LabsCryptography\LabsCryptography\obj\Debug\LabsCryptography.Properties.Resources.resources
+C:\Users\jyu40\Source\Repos\LabsCryptography\LabsCryptography\obj\Debug\LabsCryptography.csproj.GenerateResource.cache
+C:\Users\jyu40\Source\Repos\LabsCryptography\LabsCryptography\obj\Debug\LabsCryptography.exe
+C:\Users\jyu40\Source\Repos\LabsCryptography\LabsCryptography\obj\Debug\LabsCryptography.pdb
+C:\Users\jyu40\Source\Repos\LabsCryptography\LabsCryptography\bin\Debug\MaterialSkin.dll
+C:\Users\jyu40\Source\Repos\LabsCryptography\LabsCryptography\obj\Debug\LabsCryptography.csproj.CopyComplete
